@@ -9,3 +9,5 @@ intrucciones para lavarse las manos
     4.Enjuáguese bien las manos con agua corriente limpia.
 
     5.Séqueselas con una toalla limpia o al aire.
+    
+    cambio desde main en github
